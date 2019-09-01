@@ -1,0 +1,14 @@
+{
+  "name": "azurefn-nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs Azure Function to decrypt and encrypt data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cryptr": "^4.0.2"
+  }
+}
